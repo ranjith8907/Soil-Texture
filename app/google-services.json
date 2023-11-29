@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "467525192802",
+    "project_id": "soil-texture-1d9bd",
+    "storage_bucket": "soil-texture-1d9bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467525192802:android:90d7996d0c30b3f95b553b",
+        "android_client_info": {
+          "package_name": "com.example.soil_texture"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8GpMhxx5xjD9sSeCgwyiixCJeyWjmLQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
